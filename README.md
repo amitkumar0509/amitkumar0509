@@ -1,5 +1,14 @@
 # 💫 About Me:
-🚀 Amit Kumar | AI/ML Engineer • Data Analyst • Problem Solver<br><br>🔭 I’m currently working on<br><br>LingoLive – Real-Time Multilingual Voice Conversation Platform<br>(Speech-to-Text using Whisper, Language Translation, Voice Cloning, Python AI Pipeline)<br><br>Data Analytics & Machine Learning projects using Python, Pandas, NumPy, SQL, Matplotlib<br><br>DSA & Competitive Programming (LeetCode, queues, stacks, DP, debugging)<br><br>👯 I’m looking to collaborate on<br><br>AI / Machine Learning projects (NLP, Speech AI, Data Science)<br><br>Hackathons, open-source contributions, and research-oriented projects<br><br>End-to-end ML projects (data → model → deployment)<br><br>🤝 I’m looking for help with<br><br>MLOps & Model Deployment (Docker, CI/CD basics, production ML)<br><br>System Design for AI applications<br><br>Optimizing deep learning models for real-world use<br><br>🌱 I’m currently learning<br><br>Machine Learning & Deep Learning (from fundamentals to advanced)<br><br>Natural Language Processing (NLP)<br><br>Speech Processing & Voice AI<br><br>Advanced SQL, Data Modeling, and Analytics<br><br>Scalable backend concepts for AI systems<br><br>💬 Ask me about<br><br>Python Programming<br><br>Data Analytics & Visualization<br><br>Machine Learning fundamentals<br><br>Hackathons, internships, and project-based learning<br><br>How to convert ideas into deployable AI products<br><br>⚡ Fun fact<br><br>I learn faster by building real projects, not just watching tutorials — execution is my superpower ⚡
+## 🚀 Amit Kumar  
+**AI/ML Engineer | Data Analyst | Problem Solver**
+
+🔭 Building **LingoLive** – real-time multilingual voice AI (Whisper, NLP, Voice Cloning)  
+🌱 Learning **Machine Learning, Deep Learning, NLP & Speech AI**  
+👯 Open to **AI/ML projects, hackathons & open-source collaboration**  
+🤝 Exploring **MLOps, AI system design & model deployment**  
+💬 Ask me about **Python, Data Analytics, Machine Learning & projects**  
+⚡ *I learn by building — execution over theory*
+⚡ Fun fact<br><br>I learn faster by building real projects, not just watching tutorials — execution is my superpower ⚡
 
 
 ## 🌐 Socials:
@@ -22,4 +31,5 @@
 [![](https://visitcount.itsvg.in/api?id=amitkumar0509&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
