@@ -1,6 +1,25 @@
 # 💫 About Me:
 ## 🚀 Amit Kumar  
 **AI/ML Engineer | Data Analyst | Problem Solver**
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=JetBrains+Mono
+    &size=21
+    &duration=2800
+    &pause=900
+    &color=00C896
+    &center=true
+    &vCenter=true
+    &width=950
+    &lines=Amit+Kumar+%7C+Data+Scientist+%26+AI+Engineer;
+    Data+Analytics+%7C+SQL+%7C+Python+%7C+Machine+Learning;
+    Backend+Architecture+%7C+Scalable+Systems+%7C+APIs;
+    Transforming+Data+into+Intelligent+Systems"
+    alt="Typing SVG"
+  />
+</p>
+
 
 🔭 Building **LingoLive** – real-time multilingual voice AI (Whisper, NLP, Voice Cloning)  
 🌱 Learning **Machine Learning, Deep Learning, NLP & Speech AI**  
@@ -101,6 +120,7 @@
 [![](https://visitcount.itsvg.in/api?id=amitkumar0509&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
